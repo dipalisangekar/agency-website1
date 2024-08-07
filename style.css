@@ -1,0 +1,40 @@
+    #img1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    }   
+    #img2{
+        display: flex; 
+        align-items: center;
+        gap: 20px;
+       }
+span{
+    font-size: larger;
+    color: midnightblue;
+}
+#logo{
+    color: orange;
+
+
+}
+h1{
+    font-weight: bolder;
+}
+
+   #main{
+    background-color: #faf9f6;
+    border: 1px solid black;
+    width: 1100px;
+    /* height: 500px; */
+    font-family: "Poppins", sans-serif;
+    padding: 10px;
+   }
+   #sub{
+    display: inline-flex;
+   }
+   #footer{
+    color: indigo;
+    display: flex;
+    justify-content: flex-end;
+   
+   } 
